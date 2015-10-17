@@ -1,6 +1,6 @@
 # strava
 
-Client for strava.
+Read strava distance PRs and calculate current ranks. See best.csv and best_with_ranks.csv for example outputs.
 
 ## Install
 
